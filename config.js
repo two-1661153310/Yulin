@@ -72,7 +72,7 @@ var config = {
         balloons_flying: "好像还少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐～",
+        wish_message: "生日快乐～（似乎过了，但不影响噶）",
         story: "A MESSAGE FOR YOU"
     },
 
